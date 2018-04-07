@@ -1,0 +1,13 @@
+dk Gray - 535353
+lt gray - dfdfdf
+dk blue - 2c4fa3
+lt blue - 2ac1f1
+orange - f26522
+white - fff
+
+
+1225
+627
+
+line 98
+line 90
